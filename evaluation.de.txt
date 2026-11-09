@@ -1,0 +1,49 @@
+# Original synthetic evaluation clauses. These exact clauses are not used to train the model.
+required|Fertigen Sie eine übersichtliche Zeitleiste an.
+required|Erläutern Sie den Unterschied zwischen den beiden Ansätzen.
+required|Die Begründung ist ein verpflichtender Teil der Lösung.
+required|Geben Sie zu jedem Fundstück eine kurze Erklärung.
+required|Sammeln Sie Belege für Ihre These.
+required|Für alle Teilnehmenden ist eine kurze Selbstreflexion verbindlich.
+choice|Entweder ein Podcast oder ein Plakat ist zu gestalten.
+choice|Wählen Sie genau eine Option: Modell X oder Bericht Y.
+choice|Für diese Woche genügt eines der beiden Experimente.
+choice|Entscheiden Sie sich zwischen Fall Nord und Fall Süd.
+choice|Bearbeiten Sie wahlweise das Interview oder die Beobachtung.
+choice|Es darf nur eine der vier Aufgaben abgegeben werden.
+condition|Wenn Ihr Gruppenmitglied fehlt, führen Sie den Versuch alleine durch.
+condition|Das Formular darf nur verwendet werden, wenn die Angaben vollständig sind.
+condition|Sofern die Quelle frei zugänglich ist, verlinken Sie sie.
+condition|Falls der Kursraum gesperrt ist, nutzen Sie den Ersatzordner.
+condition|Bei einer verspäteten Abgabe ist eine Erklärung beizufügen.
+condition|Sollte die Verbindung abbrechen, speichern Sie Ihre Antworten lokal.
+optional|Eine zweite Begründung ist freiwillig.
+optional|Wer möchte, darf ein eigenes Diagramm zeichnen.
+optional|Der Anhang muss nicht ausgedruckt werden.
+optional|Sie können die Übung zur Wiederholung nutzen.
+optional|Das Ausfüllen des Reflexionsbogens ist nicht erforderlich.
+optional|Eine Audiofassung ist optional.
+deadline|Abgabe spätestens am 19.11.2026 um 16:00 Uhr.
+deadline|Der letzte Abgabetag ist der 17. Februar.
+deadline|Bis zum 28. Oktober ist das Arbeitsblatt einzureichen.
+deadline|Den Termin zur Abgabe geben wir in der nächsten Sitzung bekannt.
+deadline|Die Einreichungsfrist endet am 02.12. um 11 Uhr.
+deadline|Das Formular ist bis Montagmittag abzugeben.
+delivery|Laden Sie Ihre Beobachtungen gesammelt in Moodle hoch.
+delivery|Geben Sie die Fotodokumentation als PDF ab.
+delivery|Senden Sie das Ergebnis über den Abgabelink.
+delivery|Dateiformat für die Präsentation: PDF oder PPTX.
+delivery|Verwenden Sie für den Upload den Bereich Projektberichte.
+delivery|Reichen Sie die Datei im Kursraum ein.
+avoid|Verwenden Sie keine privaten Kontaktdaten.
+avoid|Eine Einreichung per Post ist nicht gestattet.
+avoid|Sie dürfen das Material nicht außerhalb des Seminars verbreiten.
+avoid|Verzichten Sie auf personenbezogene Fotos.
+avoid|ZIP-Archive sind nicht zulässig.
+avoid|Laden Sie keine unbearbeiteten Tonaufnahmen hoch.
+context|Der Reader enthält Beispiele aus früheren Seminaren.
+context|Die nächste Vorlesung findet am 23. Mai statt.
+context|In der Einführung war die Messmethode Thema.
+context|Die Handreichung wurde im März aktualisiert.
+context|Die Dateien stehen im öffentlichen Kursordner zum Download.
+context|Am Montag treffen sich die Gruppen vor dem Labor.

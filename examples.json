@@ -1,0 +1,26 @@
+{
+  "choice": {
+    "en": "Choose one",
+    "de": "Eines wählen",
+    "fr": "Un seul choix",
+    "text": "Kurzportfolio: Stadtbäume\nVergleichen Sie die beiden Standorte und notieren Sie Ihre Beobachtungen.\nWählen Sie genau eine Variante: Analyse A oder Fotoprotokoll B.\nLaden Sie die Ausarbeitung als PDF in Moodle hoch.\nAbgabe spätestens am 19.11.2026 um 16:00 Uhr.\nEine weitere Skizze ist freiwillig."
+  },
+  "conditional": {
+    "en": "Only if",
+    "de": "Nur wenn",
+    "fr": "Seulement si",
+    "text": "Materialanalyse: Woche 4\nBeschreiben Sie die Ergebnisse in eigenen Worten.\nLaden Sie Ihr Protokoll als PDF in Moodle hoch.\nFalls Moodle nicht erreichbar ist, senden Sie das Protokoll stattdessen per E-Mail.\nDie Abgabefrist endet am 27. November 2026 um 12:00 Uhr."
+  },
+  "pending": {
+    "en": "Date pending",
+    "de": "Termin folgt",
+    "fr": "Date à venir",
+    "text": "Seminar: Wege durch die Stadt\nErstellen Sie eine Tabelle mit drei Beobachtungen.\nReichen Sie die Datei im Kursraum ein.\nDer Abgabetermin wird in der nächsten Sitzung bekannt gegeben.\nDie Vorlesung beginnt am 17. November um 10 Uhr."
+  },
+  "conflict": {
+    "en": "Two dates",
+    "de": "Zwei Termine",
+    "fr": "Deux dates",
+    "text": "Versuchsbericht: Wasserqualität\nFassen Sie die Beobachtungen zusammen.\nDas Protokoll ist bis zum 20.11.2026 abzugeben.\nSpäteste Abgabe: 24.11.2026, 18 Uhr.\nVerwenden Sie keine privaten Kontaktdaten."
+  }
+}

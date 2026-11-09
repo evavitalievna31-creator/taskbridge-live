@@ -1,0 +1,46 @@
+[
+  {
+    "id":"oke-choice",
+    "source":"Warsaw Regional Examination Commission, German-language exam paper (2022)",
+    "url":"https://www.oke.waw.pl/wp-content/uploads/OKE_WARSZAWA/EM/EM_2023/Materia%C5%82y_dodatkowe/2022/Arkusze_03_2022/J%C4%99zyk_niemiecki_mniejszo%C5%9Bci/MMNN-R0-100-2203.pdf",
+    "text":"Wählen Sie eines der folgenden Themen und schreiben Sie einen Aufsatz.",
+    "expectedDate":"missing",
+    "expectedKind":"choice",
+    "interpretation":"Choose one topic. The alternatives are outside the excerpt, so do not invent them."
+  },
+  {
+    "id":"jku-delivery",
+    "source":"Johannes Kepler University Linz, AG Rechtsgeschichte course information",
+    "url":"https://www.jku.at/fileadmin/gruppen/142/Infoblatt_MM-AG_Rechtsgeschichte.pdf",
+    "text":"Laden Sie Ihre Hausarbeit als PDF-Datei im Moodle hoch.",
+    "expectedDate":"missing",
+    "expectedKind":"delivery",
+    "interpretation":"PDF upload in Moodle. This sentence does not specify the deadline."
+  },
+  {
+    "id":"erfurt-pending",
+    "source":"University of Erfurt, Hinweise zur Abgabe von Seminararbeiten",
+    "url":"https://www.uni-erfurt.de/en/philosophische-fakultaet/seminare-professuren/historisches-seminar/professuren/neuere-und-zeitgeschichte-und-geschichtsdidaktik/arbeitshilfen",
+    "text":"Der letzte Abgabetermin für die Seminararbeit wird auf dem Seminarplan zu Beginn des Semesters, der sich auch im moodle-Raum findet, bekannt gegeben.",
+    "expectedDate":"pending",
+    "expectedKind":"deadline",
+    "interpretation":"The date is in the seminar plan, not in this passage."
+  },
+  {
+    "id":"bochum-relative",
+    "source":"Ruhr University Bochum, Diskrete Mathematik, Übungsaufgaben",
+    "url":"https://www.ruhr-uni-bochum.de/lmi/lehre/dm_ws1011/",
+    "text":"Die bearbeiteten Aufgaben sind am darauffolgenden Montag spätestens bis 14:15 Uhr abzugeben.",
+    "expectedDate":"review",
+    "expectedKind":"deadline",
+    "interpretation":"Relative Monday and a time are given. The calendar date needs the reference week."
+  },
+  {
+    "id":"heidelberg-context",
+    "source":"Heidelberg University, Analysis 1 examination information",
+    "url":"https://www.mathi.uni-heidelberg.de/~hofmann/files/ana1.html",
+    "text":"Der Beginn der Klausur ist 11 Uhr.",
+    "expectedDate":"missing",
+    "interpretation":"The time is the exam start. It is not a submission deadline."
+  }
+]

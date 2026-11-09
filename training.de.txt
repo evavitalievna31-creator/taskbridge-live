@@ -1,0 +1,188 @@
+# Original synthetic training clauses, written for TaskBridge Live. Label|German sentence
+required|Bearbeiten Sie Aufgabe 1 auf dem Arbeitsblatt.
+required|Beantworten Sie die Leitfragen in Stichpunkten.
+required|Verfassen Sie einen kurzen Kommentar zur Grafik.
+required|Für das Portfolio müssen Sie eine Reflexion schreiben.
+required|Begründen Sie Ihre Entscheidung mit zwei Beispielen.
+required|Berechnen Sie zunächst den Mittelwert der Messungen.
+required|Zum Pflichtteil gehört eine eigene Skizze.
+required|Fügen Sie eine beschriftete Abbildung bei.
+required|Erstellen Sie eine Tabelle mit Ihren Beobachtungen.
+required|Lesen Sie das Kapitel und markieren Sie die Schlüsselbegriffe.
+required|Notieren Sie drei Argumente aus dem Text.
+required|Analysieren Sie die Verteilung der Daten.
+required|Beschreiben Sie den Versuchsaufbau auf einer Seite.
+required|Stellen Sie die beiden Positionen gegenüber.
+required|Ergänzen Sie Ihren Bericht um eine Quellenliste.
+required|Als Nachweis legen Sie eine kurze Dokumentation bei.
+required|Jede Gruppe erstellt ein Ergebnisprotokoll.
+required|Die schriftliche Auswertung ist verpflichtend.
+required|Zeichnen Sie das Modell und benennen Sie seine Teile.
+required|Für den Leistungsnachweis ist eine Zusammenfassung erforderlich.
+required|Vergleichen Sie die beiden Lösungswege.
+required|Die erste Teilaufgabe ist für alle verbindlich.
+required|Überarbeiten Sie Ihren Entwurf anhand der Rückmeldung.
+required|Sie sollen Ihre Ergebnisse in eigenen Worten erläutern.
+required|Eine Materialliste ist Bestandteil des Berichts.
+required|Ihre Antwort enthält eine begründete Schlussfolgerung.
+required|Kennzeichnen Sie alle direkten Zitate.
+required|Ordnen Sie die Aussagen den Kategorien zu.
+required|Dokumentieren Sie die Arbeitsschritte.
+required|Die Einleitung muss die Forschungsfrage nennen.
+required|Entwerfen Sie eine Skizze für die Versuchsanordnung.
+required|Geben Sie die verwendeten Quellen an.
+required|Halten Sie Ihre Beobachtungen schriftlich fest.
+required|Gliedern Sie die Ausarbeitung in drei Abschnitte.
+choice|Bearbeiten Sie entweder Aufgabe 2 oder Aufgabe 3.
+choice|Wählen Sie genau eine der drei Fragestellungen.
+choice|Entscheiden Sie sich für Variante A oder Variante B.
+choice|Nur eines der beiden Themen soll bearbeitet werden.
+choice|Es ist genau eine Alternative auszuwählen.
+choice|Sie geben entweder eine Skizze oder ein Modell ab.
+choice|Eine der beiden Fallstudien reicht aus.
+choice|Wählen Sie eine Option: Analyse A oder Analyse B.
+choice|Entweder das Interview oder die Beobachtung zählt zum Pflichtteil.
+choice|Erstellen Sie wahlweise eine Karte oder ein Diagramm.
+choice|Für den Hauptteil ist nur eine der Varianten erforderlich.
+choice|Bearbeiten Sie genau eines der vorgeschlagenen Beispiele.
+choice|Wählen Sie zwischen dem Bericht und der Präsentation.
+choice|Sie dürfen nur eine der Optionen einreichen.
+choice|Entscheiden Sie sich für eines der angebotenen Themen.
+choice|Sie wählen genau einen Schwerpunkt für die Ausarbeitung.
+choice|Alternativ zur Skizze können Sie ein Foto einreichen.
+choice|Bearbeiten Sie wahlweise den ersten oder den zweiten Fall.
+choice|Eine von zwei Aufgaben genügt.
+choice|Genau eine der beiden Varianten ist zu lösen.
+condition|Falls Moodle ausfällt, senden Sie die Datei per E-Mail.
+condition|Wenn Sie zu zweit arbeiten, nennen Sie beide Namen.
+condition|Eine Abgabe per E-Mail ist nur möglich, wenn das Portal nicht erreichbar ist.
+condition|Sofern Sie externe Quellen nutzen, fügen Sie ein Verzeichnis hinzu.
+condition|Wenn die Probe fehlt, protokollieren Sie die Abweichung.
+condition|Bei technischen Problemen wenden Sie sich an das Sekretariat.
+condition|Falls Sie Daten übernehmen, geben Sie die Lizenz an.
+condition|Nur wenn die Datei zu groß ist, verwenden Sie den Ersatzlink.
+condition|Sollte der Upload scheitern, melden Sie sich bei der Kursleitung.
+condition|Wenn Sie online teilnehmen, laden Sie die Skizze hoch.
+condition|Fügen Sie einen Anhang hinzu, sofern Sie Interviews geführt haben.
+condition|Schicken Sie die Datei an das Tutorium, falls das Formular geschlossen ist.
+condition|Bei einer Gruppenabgabe genügt ein Exemplar.
+condition|Die Ersatzaufgabe gilt nur für Personen ohne Laborzugang.
+condition|Reichen Sie das Protokoll ein, es sei denn, Sie waren entschuldigt.
+condition|Wenn keine Messwerte vorliegen, begründen Sie dies schriftlich.
+condition|Falls Sie Bildmaterial verwenden, geben Sie die Urheber an.
+condition|Bei fehlender Unterschrift ist ein Nachtrag erforderlich.
+condition|Vorausgesetzt, Sie nutzen die Vorlage, genügt eine Seite.
+condition|Nur im Falle eines technischen Ausfalls ist der Mailweg erlaubt.
+optional|Wer möchte, kann eine zusätzliche Skizze beilegen.
+optional|Eine zweite Grafik ist freiwillig.
+optional|Sie können ein weiteres Beispiel ergänzen.
+optional|Die Zusatzaufgabe ist optional.
+optional|Ein Deckblatt ist nicht erforderlich.
+optional|Eine Illustration darf ergänzt werden.
+optional|Bei Bedarf können Sie ein Glossar anlegen.
+optional|Die Lektüre des Anhangs ist freiwillig.
+optional|Die Übungsfragen müssen nicht beantwortet werden.
+optional|Eine eigene Tabelle ist willkommen, aber keine Pflicht.
+optional|Sie dürfen Ihre Notizen hinzufügen, wenn Sie möchten.
+optional|Das Begleitblatt ist nicht nötig.
+optional|Eine Folie mit Beispielen wäre hilfreich.
+optional|Das Quiz dient nur der Selbstkontrolle.
+optional|Wer Zeit hat, darf eine zweite Variante ausprobieren.
+optional|Ein Literaturhinweis kann die Argumentation unterstützen.
+optional|Das Zusatzmaterial ist unverbindlich.
+optional|Eine Skizze kann zur Orientierung hilfreich sein.
+optional|Die Teilnahme an der Vorbesprechung ist freiwillig.
+optional|Sie können das Muster zum Üben verwenden.
+optional|Die ergänzende Aufgabe darf übersprungen werden.
+optional|Eine kurze mündliche Rückmeldung ist möglich.
+optional|Die Hintergrundfrage braucht nicht bearbeitet zu werden.
+optional|Die Abbildung im Anhang ist lediglich eine Anregung.
+deadline|Die Abgabefrist endet am 23. Mai um 18 Uhr.
+deadline|Reichen Sie den Bericht spätestens am 12.10.2026 um 23:59 Uhr ein.
+deadline|Abgabetermin: 15.06.2026, 12:00 Uhr.
+deadline|Das Protokoll ist bis zum 7. Juli abzugeben.
+deadline|Die Abgabe muss bis Freitag um 16 Uhr erfolgen.
+deadline|Für die Einreichung gilt der 24.02. als letzter Termin.
+deadline|Laden Sie die Ausarbeitung bis zum 11. Juni hoch.
+deadline|Die Frist für die Abgabe wird noch bekannt gegeben.
+deadline|Ein Abgabetermin steht noch nicht fest.
+deadline|Späteste Abgabe: 05.12. um 20:00 Uhr.
+deadline|Den genauen Abgabetermin erfahren Sie später.
+deadline|Abgabe bis spätestens 18. September.
+deadline|Der Einsendeschluss ist am 02.03.2026.
+deadline|Bis zum 13. November muss der Bericht eingereicht sein.
+deadline|Die Frist endet am 03.11.2026 um 14 Uhr.
+deadline|Abgabetermin wird im Kursraum bekannt gegeben.
+deadline|Die Arbeit muss bis 21.04., 10 Uhr, vorliegen.
+deadline|Letzter Abgabetag ist der 6. Oktober.
+deadline|Abzugeben bis Mittwoch, 17 Uhr.
+deadline|Über den Abgabetermin informieren wir Sie in der nächsten Sitzung.
+delivery|Laden Sie Ihre Lösung als PDF in Moodle hoch.
+delivery|Reichen Sie das ausgefüllte Formular im Kursraum ein.
+delivery|Schicken Sie den Bericht als PDF-Datei per E-Mail.
+delivery|Geben Sie die Unterlagen über das Abgabeportal ab.
+delivery|Dateiformat für die Abgabe: PDF.
+delivery|Nutzen Sie zur Einreichung den vorgesehenen Upload-Ordner.
+delivery|Die Lösung wird im ILIAS-Kurs hochgeladen.
+delivery|Senden Sie Ihre Ausarbeitung an die Kursleitung.
+delivery|Benennen Sie die Datei mit Ihrer Matrikelnummer.
+delivery|Speichern Sie beide Teile in einer gemeinsamen PDF-Datei.
+delivery|Laden Sie die Datei im Abgabebereich des Kurses hoch.
+delivery|Übermitteln Sie die Ergebnisse über das Onlineformular.
+delivery|Die Abgabe erfolgt digital über Moodle.
+delivery|Fassen Sie Ihre Ergebnisse in einer Datei zusammen und laden Sie sie hoch.
+delivery|Reichen Sie das Formular über den vorgesehenen Link ein.
+delivery|Geben Sie eine einzige PDF-Datei ab.
+delivery|Laden Sie den Anhang im Kursordner hoch.
+delivery|Für den Upload ist das Dateiformat PDF vorgesehen.
+delivery|Die Hausarbeit senden Sie per Mail an das Prüfungsbüro.
+delivery|Für die Einreichung benutzen Sie den Ordner Wochenaufgaben.
+delivery|Verwenden Sie für den Dateinamen das angegebene Schema.
+delivery|Die Aufgaben werden im Abgabefeld hochgeladen.
+avoid|Reichen Sie keine Papierversion ein.
+avoid|Eine Abgabe als ZIP-Datei ist nicht zulässig.
+avoid|Verzichten Sie auf personenbezogene Angaben.
+avoid|Die Verwendung von Taschenrechnern ist untersagt.
+avoid|Sie dürfen keine privaten Daten einfügen.
+avoid|Keine Fotos von handschriftlichen Lösungen hochladen.
+avoid|Benutzen Sie nicht die alte Vorlage.
+avoid|Versenden Sie das Protokoll nicht per E-Mail.
+avoid|Anhänge im Word-Format sind nicht erlaubt.
+avoid|Eine zweite Abgabe ist ausgeschlossen.
+avoid|Verwenden Sie keine ungekennzeichneten Zitate.
+avoid|Schreiben Sie keine Namen auf das Lösungsblatt.
+avoid|Kopierte Texte sind unzulässig.
+avoid|Beide Optionen gemeinsam zu bearbeiten ist nicht erlaubt.
+avoid|Sie dürfen die Datensätze nicht weitergeben.
+avoid|Von einer Abgabe auf Papier ist abzusehen.
+avoid|Bitte fügen Sie keine identifizierenden Informationen hinzu.
+avoid|Der Versand per Post ist ausgeschlossen.
+avoid|Laden Sie keine Originalaufnahmen hoch.
+avoid|Eine gemeinsame Datei mit persönlichen Angaben ist untersagt.
+context|Im Seminar geht es um nachhaltige Mobilität.
+context|Das Beispiel enthält drei Messreihen.
+context|Die Aufgaben stehen im Kursraum Moodle.
+context|Die Vorlesung beginnt am 15. Mai um 10 Uhr.
+context|Im Anhang finden Sie eine Übersicht zur Methode.
+context|Dieses Blatt gehört zum zweiten Themenblock.
+context|Die Grafik stammt aus dem Seminarreader.
+context|In der Einführung wurde ein Verfahren vorgestellt.
+context|Ihre Gruppe erhält das Material im Seminar.
+context|Diese Seite erläutert den Hintergrund des Versuchs.
+context|Die Datei steht als PDF zum Download bereit.
+context|Weitere Informationen finden Sie auf der Kursseite.
+context|Die erste Messung fand am 10.11. statt.
+context|Die Veranstaltung richtet sich an Studierende im ersten Semester.
+context|Das folgende Beispiel zeigt eine mögliche Darstellung.
+context|Die Lösungen aus dem Vorjahr stehen online zur Verfügung.
+context|Am Dienstag findet keine Sprechstunde statt.
+context|Der Termin der ersten Vorlesung ist der 21.04.
+context|Diese Aufgaben sind Teil des Moduls Statistik.
+context|Eine Moodle-Seite wurde für das Seminar eingerichtet.
+context|Der Kursraum wird am Mittwoch freigeschaltet.
+context|Die Gruppen treffen sich in Raum 304.
+context|Hier beginnt die Übersicht zum Semesterplan.
+context|Die Beispieldaten wurden im April erhoben.
+context|Die Datei im Reader enthält den Auszug aus dem Buch.
+context|Am 25. November besprechen wir die Ergebnisse im Plenum.
+context|Die Übersicht im PDF dient als Hintergrundinformation.

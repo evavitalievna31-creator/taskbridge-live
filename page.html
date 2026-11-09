@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#f2f4eb">
+<meta name="description" content="Turn a German assignment brief into a checklist with source evidence. A private, on-device reader for multilingual students.">
+<title>TaskBridge Live — Read the brief. Know what to do.</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%231c483f'/%3E%3Cpath d='M9 27h22M12 27V15m16 12V15M12 16c6 8 10 8 16 0' fill='none' stroke='%23dcf493' stroke-width='2.5' stroke-linecap='round'/%3E%3C/svg%3E">
+<style>@@CSS@@</style>
+</head>
+<body>
+<a class="skip" href="#workspace" data-t="skip">Skip to the reader</a>
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="#top" aria-label="TaskBridge Live">
+      <svg class="brand-icon" viewBox="0 0 40 40" width="38" height="38" aria-hidden="true"><rect width="40" height="40" rx="10" fill="currentColor"/><path d="M9 27h22M12 27V15m16 12V15M12 16c6 8 10 8 16 0" fill="none" stroke="#def597" stroke-width="2.5" stroke-linecap="round"/></svg>
+      <span>TaskBridge <b>Live</b></span>
+    </a>
+    <div class="header-tools">
+      <span class="local"><span class="status-dot" aria-hidden="true"></span><span data-t="local">AI on this device</span></span>
+      <div class="segmented" role="group" data-a="language" aria-label="Interface language">
+        <button type="button" data-lang="en" aria-pressed="true" lang="en">EN</button>
+        <button type="button" data-lang="de" aria-pressed="false" lang="de">DE</button>
+        <button type="button" data-lang="fr" aria-pressed="false" lang="fr">FR</button>
+      </div>
+    </div>
+  </div>
+</header>
+<main id="top" class="container">
+  <section class="hero" aria-labelledby="main-title">
+    <div class="hero-text">
+      <div class="eyebrow"><span class="slash"></span><span data-t="eyebrow">THE ASSIGNMENT READER</span></div>
+      <h1 id="main-title"><span data-t="hero1">Read the brief.</span><br><em data-t="hero2">Know what to do.</em></h1>
+      <p data-t="heroBody">Turn a German assignment into a checklist with the words that support each step.</p>
+    </div>
+    <div class="lesson" data-a="lesson" aria-label="One of two options">
+      <div class="lesson-left">
+        <div class="lesson-kicker" data-t="detail">A SMALL PHRASE CHANGES THE PLAN</div>
+        <div class="lesson-phrase" lang="de">entweder <em>…</em> oder</div>
+        <div class="lesson-caption" data-t="detailCaption">Choose one of the two options.</div>
+      </div>
+      <svg class="branch" width="125" height="98" viewBox="0 0 140 106" aria-hidden="true">
+        <path d="M18 53h23c18 0 16-26 33-26h37M41 53c18 0 16 26 33 26h37" fill="none" stroke="#c9e98e" stroke-width="2"/>
+        <circle cx="19" cy="53" r="5" fill="#c9e98e"/><circle cx="42" cy="53" r="3" fill="#c9e98e"/>
+        <rect x="92" y="12" width="34" height="30" rx="8" fill="#dff697"/><path d="m103 26 4 4 8-8" stroke="#173e36" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        <rect x="92.5" y="64.5" width="33" height="29" rx="7.5" fill="#285a4f" stroke="#648777"/><path d="M104 79h11" stroke="#aac7b6" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+    </div>
+  </section>
+
+  <section class="workspace" id="workspace" data-a="workspace" aria-label="Assignment reader">
+    <div class="pane source-pane">
+      <div class="pane-header">
+        <div class="pane-title">
+          <span class="step" aria-hidden="true">01</span>
+          <div><h2 data-t="sourceTitle">German brief</h2><p data-t="sourceIntro">Paste a short, public assignment or try an example.</p></div>
+        </div>
+      </div>
+      <div class="source-body">
+        <div class="examples" role="group" data-a="examples" aria-label="Example briefs">
+          <button type="button" data-example="choice" aria-pressed="true"><span class="example-label">Choose one</span></button>
+          <button type="button" data-example="conditional" aria-pressed="false"><span class="example-label">Only if</span></button>
+          <button type="button" data-example="pending" aria-pressed="false"><span class="example-label">Date pending</span></button>
+          <button type="button" data-example="conflict" aria-pressed="false"><span class="example-label">Two dates</span></button>
+        </div>
+        <div class="editor">
+          <div class="editor-head">
+            <label for="brief" data-t="sourceLabel">ASSIGNMENT TEXT</label>
+            <div class="editor-view" role="group" data-a="editorView" aria-label="Source view">
+              <button id="edit-view" type="button" aria-pressed="true" data-t="edit">Edit</button>
+              <button id="line-view" type="button" aria-pressed="false" data-t="lines">Lines</button>
+            </div>
+          </div>
+          <textarea id="brief" lang="de" spellcheck="false" autocomplete="off" data-p="placeholder" placeholder="Paste a short German assignment here …" aria-describedby="source-foot"></textarea>
+          <div id="line-view-body" class="line-view" hidden></div>
+          <div class="editor-foot" id="source-foot"><span id="origin-badge">Fictional example</span><span id="char-count">0 / 4,800</span></div>
+        </div>
+        <div class="source-actions">
+          <button type="button" id="run" class="primary">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h9M4 12h12M4 17h9m4-12 3 3-3 3m0 3 3 3-3 3"/></svg>
+            <span data-t="read">Read requirements</span>
+          </button>
+          <button type="button" class="quiet" id="clear" data-t="clear">Start blank</button>
+        </div>
+        <p class="source-note"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 22s7-3 7-10V5l-7-3-7 3v7c0 7 7 10 7 10zM9 12l2 2 4-4"/></svg><span data-t="privacy">Your text stays in this browser tab.</span></p>
+        <p id="source-status" class="source-status" role="status" aria-live="polite"></p>
+      </div>
+    </div>
+
+    <div class="pane plan-pane">
+      <div class="pane-header">
+        <div class="pane-title">
+          <span class="step" aria-hidden="true">02</span>
+          <div><h2 data-t="planTitle">Your submission plan</h2><p data-t="planIntro">Choose what you would submit. Check it against the brief.</p></div>
+        </div>
+        <button type="button" class="small-button" id="copy" data-t="copy" hidden>Copy checklist</button>
+      </div>
+      <div id="plan-content"></div>
+    </div>
+  </section>
+
+  <section class="explainer" aria-labelledby="about-title">
+    <div class="about-head">
+      <div class="eyebrow"><span class="slash"></span><span data-t="behind">BEHIND THE READER</span></div>
+      <h2 id="about-title" data-t="about">A plan you can check.</h2>
+    </div>
+    <div class="explainer-grid">
+      <article><div class="about-num" aria-hidden="true">01</div><h3 data-t="aboutModel">A small model reads the clauses</h3><p data-t="aboutModelBody">A classifier trained on 187 German clauses identifies actions, delivery instructions and context. It runs locally and reads new text.</p></article>
+      <article><div class="about-num" aria-hidden="true">02</div><h3 data-t="aboutProof">Every step points back to the brief</h3><p data-t="aboutProofBody">The line button opens the exact original text. A choice or exception becomes an interactive check only when its structure is clear.</p></article>
+      <article><div class="about-num" aria-hidden="true">03</div><h3 data-t="aboutLimit">When the text is unclear, ask</h3><p data-t="aboutLimitBody">The reader supports short German briefs. It does not translate every sentence or infer missing dates, groups or policies.</p></article>
+    </div>
+  </section>
+</main>
+<footer><div class="container footer-inner"><span>TaskBridge Live</span><span data-t="footer">Made for SLAY HACKS 2026 · Built for multilingual learners</span></div></footer>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<noscript><p class="container">TaskBridge Live needs JavaScript to read a brief in your browser.</p></noscript>
+<script type="application/json" id="model">@@MODEL@@</script>
+<script type="application/json" id="examples-data">@@EXAMPLES@@</script>
+<script>@@READER@@</script>
+<script>@@LOCALE@@</script>
+<script>@@APP@@</script>
+</body>
+</html>
